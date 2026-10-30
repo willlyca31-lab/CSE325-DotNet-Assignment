@@ -1,0 +1,15 @@
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\bin\Debug\net8.0\DotNetIntroduction.exe
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\bin\Debug\net8.0\DotNetIntroduction.deps.json
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\bin\Debug\net8.0\DotNetIntroduction.runtimeconfig.json
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\bin\Debug\net8.0\DotNetIntroduction.dll
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\bin\Debug\net8.0\DotNetIntroduction.pdb
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\obj\Debug\net8.0\DotNetIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\obj\Debug\net8.0\DotNetIntroduction.AssemblyInfoInputs.cache
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\obj\Debug\net8.0\DotNetIntroduction.AssemblyInfo.cs
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\obj\Debug\net8.0\DotNetIntroduction.csproj.CoreCompileInputs.cache
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\obj\Debug\net8.0\DotNetIntroduction.sourcelink.json
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\obj\Debug\net8.0\DotNetIntroduction.dll
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\obj\Debug\net8.0\refint\DotNetIntroduction.dll
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\obj\Debug\net8.0\DotNetIntroduction.pdb
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\obj\Debug\net8.0\DotNetIntroduction.genruntimeconfig.cache
+C:\CSE325-DotNet-Assignment\DotNetIntroduction\obj\Debug\net8.0\ref\DotNetIntroduction.dll

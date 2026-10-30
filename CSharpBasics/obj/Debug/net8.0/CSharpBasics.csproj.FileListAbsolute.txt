@@ -1,0 +1,15 @@
+C:\CSE325-DotNet-Assignment\CSharpBasics\bin\Debug\net8.0\CSharpBasics.exe
+C:\CSE325-DotNet-Assignment\CSharpBasics\bin\Debug\net8.0\CSharpBasics.deps.json
+C:\CSE325-DotNet-Assignment\CSharpBasics\bin\Debug\net8.0\CSharpBasics.runtimeconfig.json
+C:\CSE325-DotNet-Assignment\CSharpBasics\bin\Debug\net8.0\CSharpBasics.dll
+C:\CSE325-DotNet-Assignment\CSharpBasics\bin\Debug\net8.0\CSharpBasics.pdb
+C:\CSE325-DotNet-Assignment\CSharpBasics\obj\Debug\net8.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSE325-DotNet-Assignment\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfoInputs.cache
+C:\CSE325-DotNet-Assignment\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfo.cs
+C:\CSE325-DotNet-Assignment\CSharpBasics\obj\Debug\net8.0\CSharpBasics.csproj.CoreCompileInputs.cache
+C:\CSE325-DotNet-Assignment\CSharpBasics\obj\Debug\net8.0\CSharpBasics.sourcelink.json
+C:\CSE325-DotNet-Assignment\CSharpBasics\obj\Debug\net8.0\CSharpBasics.dll
+C:\CSE325-DotNet-Assignment\CSharpBasics\obj\Debug\net8.0\refint\CSharpBasics.dll
+C:\CSE325-DotNet-Assignment\CSharpBasics\obj\Debug\net8.0\CSharpBasics.pdb
+C:\CSE325-DotNet-Assignment\CSharpBasics\obj\Debug\net8.0\CSharpBasics.genruntimeconfig.cache
+C:\CSE325-DotNet-Assignment\CSharpBasics\obj\Debug\net8.0\ref\CSharpBasics.dll

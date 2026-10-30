@@ -1,0 +1,14 @@
+
+// Pizza model
+// Represents an individual pizza in the API.
+
+namespace PizzaApi.Models;
+
+public class Pizza
+{
+    public int Id { get; set; }
+
+    public string Name { get; set; } = string.Empty;
+
+    public bool IsGlutenFree { get; set; }
+}
